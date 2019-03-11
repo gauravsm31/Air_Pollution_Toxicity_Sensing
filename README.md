@@ -1,5 +1,5 @@
 # PAH-Composition
-Predicting concentration of toxic compounds (PAHs) in combustion generated particulate matter using PCA-MLR, Kernel Regression and Neural Networks.
+Predicting concentration of toxic compounds (PAHs) in combustion generated particulate matter using Principal Component Regression (PCR), Kernel Regression and Neural Networks.
 
 File "EEM Mixing Samples.ipynb" generates data from 20 original samples.
 
