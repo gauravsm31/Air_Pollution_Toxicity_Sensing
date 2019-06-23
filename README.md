@@ -3,7 +3,10 @@ Polycylic Aromatic Hydrocarbons (PAHs) are a widespread class of environmental c
 
 In this work, we develop two machine learning models to predict concentrations of 16 PAHs in soot samples obtained from combustion of different fuels at different conditions. 
 
-We use 1. Principal Component Regression (PCR) (Gaurav Mahamuni - "EEM Mixing Samples.ipynb", "PCA Py3 Mixed.ipynb") and 2. Neural Networks to develop prediction models using training data. We use test data to calculate percentage error for each PAH. The average test error using PCR is 34% and for Neural Networks is 84%..
+We use 
+1. Principal Component Regression (PCR) (Gaurav Mahamuni - "EEM Mixing Samples.ipynb", "PCA Py3 Mixed.ipynb") and 
+2. Neural Networks to develop prediction models using training data. 
+The average test error using PCR is 34% and for Neural Networks is 84%..
 
 ![alt text](https://github.com/gauravsm31/PAH-Composition/blob/master/PAH-Comp.png)
 
