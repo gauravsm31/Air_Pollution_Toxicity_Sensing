@@ -1,4 +1,4 @@
-# Predicting Toxic Compound Concentrations in Pollution Particles
+# Predicting Toxic Compound Concentrations in Air Pollution Particles
 Polycylic Aromatic Hydrocarbons (PAHs) are a widespread class of environmental chemical pollutant known to have carcinogenic and mutagenic effects in humans and other living beings. 
 
 In this work, we develop two machine learning models to predict concentrations of 16 PAHs in soot samples obtained from combustion of different fuels at different conditions. 
