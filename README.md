@@ -1,10 +1,10 @@
-# PAH-Composition
-Predicting concentration of toxic compounds (PAHs) in combustion generated particulate matter using Principal Component Regression (PCR), Kernel Regression and Neural Networks.
+# PAH Composition
+Polycylic Aromatic Hydrocarbons (PAHs) are a widespread class of environmental chemical pollutant known to have carcinogenic and mutagenic effects in humans and other living beings. 
 
-File "EEM Mixing Samples.ipynb" generates data from 20 original samples.
+In this work, we develop two machine learning models to predict concentrations of 16 PAHs in soot samples obtained from combustion of different fuels at different conditions. 
 
-File "PCA Py3 Mixed.ipynb" predicts concentration of toxic compounds using Principal Component Regression.
-
-Please read "Project_Report.pdf" for further insight. 
+We use 1. Principal Component Regression (PCR) (Gaurav Mahamuni - "EEM Mixing Samples.ipynb", "PCA Py3 Mixed.ipynb") and 2. Neural Networks to develop prediction models using training data. We use test data to calculate percentage error for each PAH. The average test error using PCR is 34% and for Neural Networks is 84%..
 
 ![alt text](https://github.com/gauravsm31/PAH-Composition/blob/master/PAH-Comp.png)
+
+Please read "Project_Report.pdf" for further insight. 
