@@ -6,6 +6,7 @@ In this work, we develop two machine learning models to predict concentrations o
 We use 
 1. Principal Component Regression (PCR) (Gaurav Mahamuni - "EEM Mixing Samples.ipynb", "PCA Py3 Mixed.ipynb") and 
 2. Neural Networks to develop prediction models using training data. 
+
 The average test error using PCR is 34% and for Neural Networks is 84%..
 
 ![alt text](https://github.com/gauravsm31/PAH-Composition/blob/master/PAH-Comp.png)
